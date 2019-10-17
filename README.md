@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans！
+
+Cheney here,I like play basketable.
